@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Deb Prosad Sen Banner" width="100%" />
+  <img src="BANNER.jpg" alt="Deb Prosad Sen Banner" width="100%" height="200px" />
 </p>
 
 # Deb Prosad Sen
 
-**Electronics & Communication Engineering Student | Machine Learning & Deep Learning Enthusiast | Circuit Design & Data Analysis**
+<p align="center">
+  <strong>Electronics & Communication Engineering Student | Machine Learning & Deep Learning Enthusiast | Circuit Designer | Data Analyst</strong>
+</p>
 
 ---
 
@@ -31,48 +33,3 @@ Currently exploring advanced **flight delay prediction models** and working on p
 </p>
 
 ---
-
-## Featured Projects
-
-### 1. [CO₂ & Greenhouse Gas Emissions Analysis](https://github.com/DEB-PROSAD-SEN/EDGE_PROJECT)
-- **Tech:** Python, MATLAB  
-- **Focus:** Environmental data visualization and analysis.
-
-### 2. Flight Delay Prediction (ML Project)
-- **Tech:** Python, Scikit-learn, Deep Learning  
-- **Focus:** Predicting flight delays using machine learning models.
-
-### 3. Autofix Master Website
-- **Tech:** HTML, CSS, JavaScript  
-- **Focus:** Responsive car service website with multiple service pages.
-
----
-
-## GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEB-PROSAD-SEN&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEB-PROSAD-SEN&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEB-PROSAD-SEN&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</p>
-
----
-
-## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/prosad-sen-89a73630a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:prosadsen77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/DEB-PROSAD-SEN">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐️ From [DEB-PROSAD-SEN](https://github.com/DEB-PROSAD-SEN)
