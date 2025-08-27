@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Deb Prosad Sen Banner" width="100%" height="300px"/>
+  <img src="Banner.png" alt="Deb Prosad Sen Banner" width="100%"/>
 </p>
 
 <h1 align="center">🌙 Hi, I'm <span style="color:#FF007F;">Deb Prosad Sen</span></h1>
