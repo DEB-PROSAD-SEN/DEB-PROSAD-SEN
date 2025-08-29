@@ -2,6 +2,8 @@
   <img src="deb.png" alt="Deb Prosad Sen Banner" width="100%"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineering+Student;Machine+Learning+%26+Deep+Learning+Enthusiast;Circuit+Designer+%26+Data+Analyst)](https://git.io/typing-svg)
+
 <h1 align="center">🌙 Hi, I'm <span style="color:#FF007F;">Deb Prosad Sen</span></h1>
 
 <h3 align="center">
@@ -24,28 +26,7 @@ I am passionate about leveraging **technology to solve real-world problems**, pa
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-2E8B57?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-9ACD32?style=for-the-badge&logo=scikitlearn&logoColor=black" />
-  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-20B2AA?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Row 3 -->
-  <img src="https://img.shields.io/badge/Circuit_Design-2F4F4F?style=for-the-badge&logo=proteus&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-00CED1?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-B22222?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-4682B4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,c,github,tensorflow,sklearn,pytorch,pandas,arduino,html,css,js" />
 </p>
 
 ---
@@ -80,13 +61,7 @@ I am passionate about leveraging **technology to solve real-world problems**, pa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEB-PROSAD-SEN&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF007F&text_color=FFFFFF" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEB-PROSAD-SEN&theme=tokyonight&background=0D1117&ring=FF007F&fire=FF007F&currStreakLabel=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEB-PROSAD-SEN&theme=onedark&no-frame=true&margin-w=10" />
-</p>
+[![Deb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DEB-PROSAD-SEN&bg_color=0d1117&color=FF007F&line=FF007F&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
